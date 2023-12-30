@@ -1,10 +1,10 @@
-<h1 align="center">Iftikhar Mahmud</h1>
+<h1 align="center">Hello there, I'm Iftikhar Mahmud</h1>
 <h3 align="center">Passionate Frontend Developer | Bangladesh</h3>
 
 <div align="center">
-🔭 Currently working on [Lettre.app](https://www.lettre.app/)
-🌱 Learning **React and Swift**
-💬 Ask me about **Networks, Marketing**
+<br>🔭 Currently working on [Lettre.app](https://www.lettre.app/)<br>
+<br>🌱 Learning **React and Swift**<br>
+<br>💬 Ask me about **Networks, Marketing**<br>
 </div>
 
 <h3 align="center">Connect with me:</h3>

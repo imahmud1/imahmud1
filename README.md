@@ -2,11 +2,9 @@
 <h3 align="center">Passionate Frontend Developer | Bangladesh</h3>
 
 <div align="center">
-
-  - 🔭 Currently working on [Lettre.app](https://www.lettre.app/)
-  - 🌱 Learning **React and Swift**
-  - 💬 Ask me about **Networks, Marketing**
-
+🔭 Currently working on [Lettre.app](https://www.lettre.app/)
+🌱 Learning **React and Swift**
+💬 Ask me about **Networks, Marketing**
 </div>
 
 <h3 align="center">Connect with me:</h3>

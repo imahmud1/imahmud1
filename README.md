@@ -15,11 +15,12 @@
 ---
 
 ### 🚀 What I’m Working On
-- <img alt="Lettre logo" src="https://images.squarespace-cdn.com/content/v1/64224761117d752dbf17621f/cbfa314c-48f7-4dc6-925f-e8daf698de34/Group+96.png?format=300w" height="18" /> **[Lettre.app](https://www.lettre.app/):** a handwriting-based penpal/social app for **iPad & iPhone** — write or doodle, stick a digital stamp, and send to a PenPal feed. I work on iOS UI/UX, S3/MRAP-backed media flows, and performance-minded architecture. :contentReference[oaicite:0]{index=0}  
-  — PenPals are organized by **region/continent** so your lettre lands where it’s most likely to be discovered. :contentReference[oaicite:1]{index=1}  
-  — **Digital stamps** are collabs with indie artists; you can **collect, trade**, and view them in a Stamp Book / Post Office experience. :contentReference[oaicite:2]{index=2}
+- **Lettre.app** — a handwriting-first penpal app for iPhone & iPad. You write or doodle letters, add artist-made digital stamps, and connect with pen pals organized by region/continent. I’m working on:
+  - iOS UI/UX in Swift (UIKit/SwiftUI) with performance-minded architecture
+  - S3 + Multi-Region Access Point (MRAP) media pipeline for uploads/downloads
+  - Analytics & logging to balance reliability and cost
+- **Serverless on AWS** — Lambda + API Gateway, S3 (incl. MRAP), DynamoDB, Cognito, CloudWatch (cost-aware logging & dashboards).
 
-- **Serverless on AWS:** Lambda + API Gateway, S3 (incl. MRAP), DynamoDB, Cognito, CloudWatch (cost-aware logging & analytics).
 
 
 ### 🧭 Focus Areas

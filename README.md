@@ -17,9 +17,8 @@
 ### 🚀 What I’m Working On
 - **Lettre.app** — a handwriting-first penpal app for iPhone & iPad. You write or doodle letters, add artist-made digital stamps, and connect with pen pals organized by region/continent. I’m working on:
   - iOS UI/UX in Swift (UIKit/SwiftUI) with performance-minded architecture
-  - S3 + Multi-Region Access Point (MRAP) media pipeline for uploads/downloads
   - Analytics & logging to balance reliability and cost
-- **Serverless on AWS** — Lambda + API Gateway, S3 (incl. MRAP), DynamoDB, Cognito, CloudWatch (cost-aware logging & dashboards).
+- **Serverless on AWS** — Lambda + API Gateway, S3 (incl. MRAP), DynamoDB, Cognito, CloudWatch (cost-aware logging & dashboards), EventBridge, SES.
 
 
 

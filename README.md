@@ -15,8 +15,12 @@
 ---
 
 ### 🚀 What I’m Working On
-- **[Lettre.app](https://www.lettre.app/):** iOS UI/UX, robust S3/MRAP flows, offline-friendly features, and performance-minded architecture.
-- **Serverless on AWS:** Lambda + API Gateway, S3, DynamoDB, Cognito, CloudWatch (cost-aware logging & analytics).
+- <img alt="Lettre logo" src="https://images.squarespace-cdn.com/content/v1/64224761117d752dbf17621f/cbfa314c-48f7-4dc6-925f-e8daf698de34/Group+96.png?format=300w" height="18" /> **[Lettre.app](https://www.lettre.app/):** a handwriting-based penpal/social app for **iPad & iPhone** — write or doodle, stick a digital stamp, and send to a PenPal feed. I work on iOS UI/UX, S3/MRAP-backed media flows, and performance-minded architecture. :contentReference[oaicite:0]{index=0}  
+  — PenPals are organized by **region/continent** so your lettre lands where it’s most likely to be discovered. :contentReference[oaicite:1]{index=1}  
+  — **Digital stamps** are collabs with indie artists; you can **collect, trade**, and view them in a Stamp Book / Post Office experience. :contentReference[oaicite:2]{index=2}
+
+- **Serverless on AWS:** Lambda + API Gateway, S3 (incl. MRAP), DynamoDB, Cognito, CloudWatch (cost-aware logging & analytics).
+
 
 ### 🧭 Focus Areas
 - **iOS Frontend:** Swift • UIKit/SwiftUI • async/await • URLSession • background tasks • resilient error handling.
@@ -50,14 +54,6 @@
 </p>
 
 **Also work with:** HTML5 · CSS3 · Tailwind · Bootstrap · Python · PHP · C/C++/C# · Unity · Arduino
-
----
-
-### ⭐ Featured
-**[Lettre.app](https://www.lettre.app/)**  
-Inbox done differently — thoughtful UX, iOS polish, and S3/MRAP-backed storage with graceful failover.
-
----
 
 ### 💬 Open To Discuss
 - ISP marketing (value-first growth, retention, support playbooks)

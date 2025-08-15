@@ -4,11 +4,10 @@
   <b>iOS Frontend & AWS Backend</b> · 🇧🇩 Bangladesh
 </p>
 <p align="center">
-  Shipping smooth iOS experiences and resilient AWS backends. Happy to chat Networks & Marketing.
+  Shipping smooth iOS experiences and pragmatic AWS backends. I lead marketing for an ISP and love tinkering with home-lab/infra.
 </p>
 
 <p align="center">
-  <a href="https://www.lettre.app">Website</a> •
   <a href="https://linkedin.com/in/iftikharmahmud">LinkedIn</a> •
   <a href="https://fb.com/iftikhar.mahmud.56">Facebook</a>
 </p>
@@ -16,14 +15,14 @@
 ---
 
 ### 🚀 What I’m Working On
-- **[Lettre.app](https://www.lettre.app/):** iOS UI/UX, S3/MRAP integration, resilient upload/download flows, and performance-minded architecture.
-- **AWS backend:** Serverless APIs, S3 + DynamoDB patterns, logging/analytics, and cost-aware infra.
+- **[Lettre.app](https://www.lettre.app/):** iOS UI/UX, robust S3/MRAP flows, offline-friendly features, and performance-minded architecture.
+- **Serverless on AWS:** Lambda + API Gateway, S3, DynamoDB, Cognito, CloudWatch (cost-aware logging & analytics).
 
 ### 🧭 Focus Areas
-- **iOS Frontend:** Swift, UIKit/SwiftUI, concurrency (async/await), URLSession, background tasks, robust error handling.
-- **Cloud Backend:** AWS S3, MRAP, CloudFront, Lambda, API Gateway, DynamoDB, Cognito, IAM, CloudWatch.
-- **ISP/Networks:** Practical caching/CDNs, LANCache, DNS, Nginx, bandwidth & reliability trade-offs.
-- **Marketing:** Value-first messaging and pragmatic growth for ISPs/consumer apps.
+- **iOS Frontend:** Swift • UIKit/SwiftUI • async/await • URLSession • background tasks • resilient error handling.
+- **Cloud Backend:** S3 • MRAP • CloudFront • Lambda • API Gateway • DynamoDB • Cognito • IAM • CloudWatch.
+- **ISP (Marketing):** Value-first positioning, campaigns, customer comms.
+- **Tinkering (for fun):** Routers • DNS • Nginx • LANCache • home-lab/network hygiene.
 
 ---
 
@@ -33,39 +32,36 @@
   <img alt="Swift" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
   <img alt="Apple" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
   <img alt="Xcode" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" />
-  <!-- Web/Backend -->
+  <!-- Backend / Cloud -->
+  <img alt="AWS" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@10.4.0/icons/amazonaws.svg" />
   <img alt="Node.js" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="Express" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  <img alt="AWS" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img alt="Firebase" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img alt="MySQL" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <!-- Infra -->
+  <!-- Infra / Tools -->
   <img alt="Nginx" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img alt="Linux" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img alt="Docker" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Git" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <!-- Tools -->
+  <!-- Design -->
   <img alt="Figma" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img alt="Illustrator" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img alt="Photoshop" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </p>
 
-**Also use:** HTML5 · CSS3 · React (basic) · Tailwind CSS · Bootstrap · Python · PHP · C/C++/C# · Unity · Arduino
+**Also work with:** HTML5 · CSS3 · Tailwind · Bootstrap · Python · PHP · C/C++/C# · Unity · Arduino
 
 ---
 
 ### ⭐ Featured
 **[Lettre.app](https://www.lettre.app/)**  
-Inbox done differently — thoughtful UX, offline-friendly flows, S3/MRAP-backed storage, and pragmatic performance.
+Inbox done differently — thoughtful UX, iOS polish, and S3/MRAP-backed storage with graceful failover.
 
 ---
 
 ### 💬 Open To Discuss
-- Networks (ISP ops, caching/CDNs, DNS, AWS edge)
-- Marketing strategies (value-first positioning, cost-effectiveness)
+- ISP marketing (value-first growth, retention, support playbooks)
+- Practical networking & caching (LANCache, DNS, Nginx)
+- iOS & AWS patterns for indie apps
 
 ---
-
-### 📫 Connect
-- **LinkedIn:** <a href="https://linkedin.com/in/iftikharmahmud">/in/iftikharmahmud</a>  
-- **Facebook:** <a href="https://fb.com/iftikhar.mahmud.56">/iftikhar.mahmud.56</a>
